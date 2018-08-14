@@ -1,4 +1,4 @@
-Role Name
+ansible-jupyter-widgets
 =========
 
 A brief description of the role goes here.
@@ -36,4 +36,3 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
-# ansible-jupyter-widgets
